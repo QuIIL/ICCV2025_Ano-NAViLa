@@ -1,13 +1,13 @@
 # Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images
 
-Official code and resources repository for "Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images" [\[paper\]](https://arxiv.org/abs/2508.15256) (ICCV 2025) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry: **(update later)**
+Official code and resources repository for "Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images" [\[paper\]](https://arxiv.org/abs/2508.15256) (ICCV 2025) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
 
 ```bibtex
-@inproceedings{song2025AnoNAViLa,
-  title={Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images},
+@inproceedings{song2025normal,
+  title={Normal and abnormal pathology knowledge-augmented vision-language model for anomaly detection in pathology images},
   author={Song, Jinsol and Wang, Jiamu and Nguyen, Anh Tien and Byeon, Keunho and Ahn, Sangjeong and Lee, Sung Hak and Kwak, Jin Tae},
-  booktitle={ICCV},
-  pages={000--000},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={22066--22076},
   year={2025}
 }
 ```
